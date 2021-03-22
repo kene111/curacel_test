@@ -11,13 +11,13 @@
 
 
 Model Performance:
-1)  toyota_model_0.h5:
+1)  toyota_model_0.h5 (corresponding to toyota-model-recognition-service-0 notebook) :
 - validation_loss: 5.3786
 - validation_accuracy: 0.02048
 - training_accuracy: 0.6421
 - training_loss:1.1620
 
-### This shows that the model over-fitted,
+##### This shows that the model over-fitted
 
 ### Note:
 1) The dataset is imbalanced.
