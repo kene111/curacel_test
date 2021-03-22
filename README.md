@@ -2,9 +2,10 @@
 
 
 ### Repository Breakdown:
-1) toyota-model-recognition-service-0: The .ipynb code that handles preprocesses, trains, and test the model.
-2) Dataset:  https://www.kaggle.com/occultainsights/toyota-cars-over-20k-labeled-images
-3) Model: https://drive.google.com/drive/folders/1lx0ZbDserY9g4FOhndS6f5Tv9H9L0tvW?usp=sharing
+1) toyota-model-recognition-service-0: The .ipynb code that handles preprocesses, trains, and test the model. This model trains on the dataset regardless of the imabalance.
+2) toyota-model-recognition-service-1: This .ipynb code tries to correct the imabalanced data.
+3) Dataset:  https://www.kaggle.com/occultainsights/toyota-cars-over-20k-labeled-images
+4) Model: https://drive.google.com/drive/folders/1lx0ZbDserY9g4FOhndS6f5Tv9H9L0tvW?usp=sharing
 
 
 ### 
