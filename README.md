@@ -11,12 +11,11 @@
 
 
 Model Performance:
-
-toyota_model_0.h5:
-validation_loss: 5.3786
-validation_accuracy: 0.02048
-training_accuracy: 0.6421
-training_loss:1.1620
+1)  toyota_model_0.h5:
+- validation_loss: 5.3786
+- validation_accuracy: 0.02048
+- training_accuracy: 0.6421
+- training_loss:1.1620
 
 ### This shows that the model over-fitted,
 
