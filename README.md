@@ -10,9 +10,6 @@
 6) Models: https://drive.google.com/drive/folders/1lx0ZbDserY9g4FOhndS6f5Tv9H9L0tvW?usp=sharing
 
 
-### 
-
-
 Model Performance:
 1)  toyota_model_0.h5 (corresponding to toyota-model-recognition-service-0 notebook) :
 - validation_loss: 5.3786
@@ -37,6 +34,12 @@ Even with the use of the keras-balanced-batch-generator the validation accuracy 
 1) The dataset is imbalanced. In order to curb the imbalanced image data ( The maximum number of images per model used was 350, while the minimum  number of images per model used was 22 i.e some toyota models only had 22 images)
 2) Notebook was trained on kaggle due to how large the dataset is. 
 3) Model could not be uploaded to github due to how large it is.
+
+
+Other Solutions to solving the imbalanced dataset:
+1) dropping the toyota models with cars lower than 100 images.
+2) Using GANs to generate more image data for the lower class.
+3) 
 
 
 
