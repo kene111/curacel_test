@@ -39,5 +39,7 @@ Even with the use of the keras-balanced-batch-generator the validation accuracy 
 1) dropping the toyota models with cars lower than 100 images.
 2) Using GANs to generate more image data for the lower classes.
 
+#### Models overall performance could be improved if given more time for hyperparameter tuning.
+
 
 
