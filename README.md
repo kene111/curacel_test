@@ -35,7 +35,7 @@ Even with the use of the keras-balanced-batch-generator the validation accuracy 
 3) Model could not be uploaded to github due to how large it is.
 
 
-### Other possible Solutions to solving the imbalanced dataset:
+### Other possible solutions to solving the imbalanced dataset:
 1) dropping the toyota models with cars lower than 100 images.
 2) Using GANs to generate more image data for the lower classes.
 
