@@ -6,7 +6,7 @@
 2) 
 3) toyota-model-recognition-service-1: This .ipynb notebook code tries to correct the imabalanced image dataset.
 4) Dataset Origin:  https://www.kaggle.com/occultainsights/toyota-cars-over-20k-labeled-images
-5) Dataset Used: https://www.dropbox.com/sh/mgfe2wds5igkba3/AACDpuIBzgIO5lKWrHx4P8f0a?dl=0
+5) Dataset Used: https://www.dropbox.com/s/8hq66n5xv264xsm/car_image_data.zip?dl=0
 6) Models: https://drive.google.com/drive/folders/1lx0ZbDserY9g4FOhndS6f5Tv9H9L0tvW?usp=sharing
 
 
