@@ -3,11 +3,10 @@
 
 ### Repository Breakdown:
 1) toyota-model-recognition-service-0: The .ipynb notebook contains the code that handles preprocesses, trains, and test the models performance. This model trains on the dataset regardless of the imabalance.
-2) 
-3) toyota-model-recognition-service-1: This .ipynb notebook code tries to correct the imabalanced image dataset.
-4) Dataset Origin:  https://www.kaggle.com/occultainsights/toyota-cars-over-20k-labeled-images
-5) Dataset Used: https://www.dropbox.com/s/8hq66n5xv264xsm/car_image_data.zip?dl=0
-6) Models: https://drive.google.com/drive/folders/1lx0ZbDserY9g4FOhndS6f5Tv9H9L0tvW?usp=sharing
+2) toyota-model-recognition-service-1: This .ipynb notebook code tries to correct the imabalanced image dataset.
+3) Dataset Origin:  https://www.kaggle.com/occultainsights/toyota-cars-over-20k-labeled-images
+4) Dataset Used: https://www.dropbox.com/s/8hq66n5xv264xsm/car_image_data.zip?dl=0
+5) Models: https://drive.google.com/drive/folders/1lx0ZbDserY9g4FOhndS6f5Tv9H9L0tvW?usp=sharing
 
 
 Model Performance:
@@ -38,7 +37,7 @@ Even with the use of the keras-balanced-batch-generator the validation accuracy 
 
 Other Solutions to solving the imbalanced dataset:
 1) dropping the toyota models with cars lower than 100 images.
-2) Using GANs to generate more image data for the lower class.
+2) Using GANs to generate more image data for the lower classes.
 3) 
 
 
