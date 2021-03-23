@@ -27,7 +27,7 @@ Model performance was very poor.
 Even with the use of the keras-balanced-batch-generator the validation accuracy was still poor, yet this model performed better than the first model.
 
 
-##### This shows that the model over-fitted
+##### This also shows that the models over-fitted.
 
 ### Note:
 1) The dataset is imbalanced. In order to curb the imbalanced image data ( The maximum number of images per model used was 350, while the minimum  number of images per model used was 22 i.e some toyota models only had 22 images)
