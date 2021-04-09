@@ -1,6 +1,5 @@
 # curacel_test
 
-
 ### Repository Breakdown:
 1) toyota-model-recognition-service-0: The .ipynb notebook contains the code that handles preprocesses, trains, and test the models performance. This model trains on the dataset regardless of the imabalance.
 2) toyota-model-recognition-service-1: This .ipynb notebook code tries to correct the imabalanced image dataset.
@@ -26,8 +25,11 @@ Model performance was very poor.
 
 Even with the use of the keras-balanced-batch-generator the validation accuracy was still poor, yet this model performed better than the first model.
 
-
 ##### This also shows that the models over-fitted.
+
+3) Still working on a model with better results.
+
+
 
 ### Note:
 1) The dataset is imbalanced. In order to curb the imbalanced image data ( The maximum number of images per model used was 350, while the minimum  number of images per model used was 22 i.e some toyota models only had 22 images)
