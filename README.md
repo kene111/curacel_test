@@ -27,7 +27,7 @@ Even with the use of the keras-balanced-batch-generator the validation accuracy 
 
 ##### This also shows that the models over-fitted.
 
-3) Still working on a model with better results.
+3) Currently working on a model with better results.
 
 
 
